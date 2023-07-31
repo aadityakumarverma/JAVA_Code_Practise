@@ -10,5 +10,9 @@ public class HashMap_1 {
         map.put(19027,"Mehnaj");
 
         System.out.println(map);
+        System.out.println(map);
+
+
+
     }
 }
